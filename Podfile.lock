@@ -1,0 +1,20 @@
+PODS:
+  - LDProgressView (1.2.1)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - LDProgressView
+  - SnapKit (~> 4.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LDProgressView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  LDProgressView: f6afc7c30d2a9edf33001515f3189338567a32d2
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: ed00bac99b9848af175f8db0436c55d10c0d82e0
+
+COCOAPODS: 1.5.3
